@@ -36,7 +36,7 @@ To begin using this program, please download the following files (included in th
 etf_analyzer.ipynb  
 etf.db   
 
-Running the first cell will import Pandas, NumPy, HVPlot, and SQLAlchemy. The first cell will also creation a temporary SQLite database and an engine to interact with the SQLite database. Process to run the following cells to pull asset analysis, portfolio analysis, and the pertinent visuals.
+Running the first cell will import Pandas, NumPy, HVPlot, and SQLAlchemy. The first cell will also create a temporary SQLite database and an engine to interact with the SQLite database. Process to run the following cells to pull asset analysis, portfolio analysis, and the pertinent visuals.
 
 ---
 
