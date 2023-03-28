@@ -1,4 +1,4 @@
-# Module_7_Challenge
+# ETF Analysis
 
 This repository houses code for a program to analyze a hypothetical fintech exchange-traded fund (ETF). The code in this repository houses a financial database and web application using SQL, Python, and the Voila library. 
 
